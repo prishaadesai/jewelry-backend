@@ -1,0 +1,11 @@
+bcrypt<4.1.0
+fastapi
+uvicorn[standard]
+supabase
+httpx
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+python-dotenv
+pydantic
+pydantic[email]
